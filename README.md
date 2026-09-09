@@ -1,4 +1,4 @@
-Nama  : Adhitya Warman
+Nama  : Adhitya Warman <br/>
 NIM   : 124140007
 
 Screnshoot Aplikasi :
